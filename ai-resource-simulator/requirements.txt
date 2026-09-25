@@ -1,0 +1,8 @@
+torch --index-url https://pytorch.org
+transformers
+datasets
+peft
+bitsandbytes
+psutil
+nvidia-ml-py3
+pandas
