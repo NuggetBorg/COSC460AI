@@ -1,8 +1,9 @@
-torch --index-url https://pytorch.org
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 transformers
 datasets
 peft
-bitsandbytes
+accelerate
 psutil
-nvidia-ml-py3
 pandas
+matplotlib
